@@ -1,0 +1,7 @@
+[2023-04-16 16:05:40,707] loading model from checkpoint: results/motion_im/02/models/iter_track_200_mul_2000.p
+[2023-04-16 16:06:07,331] loading model from checkpoint: results/motion_im/02/models/iter_track_200_mul_2000.p
+[2023-04-16 16:08:55,905] loading model from checkpoint: results/motion_im/02/models/iter_track_200_add_2000.p
+[2023-04-16 16:34:04,313] loading model from checkpoint: results/motion_im/02/models/iter_track_200_add_2000.p
+[2023-04-16 16:35:02,989] loading model from checkpoint: results/motion_im/02/models/iter_track_200_add_2000.p
+[2023-04-16 16:35:38,137] loading model from checkpoint: results/motion_im/02/models/iter_track_200_add_2000.p
+[2023-04-16 16:36:06,984] loading model from checkpoint: results/motion_im/02/models/iter_track_200_add_2000.p

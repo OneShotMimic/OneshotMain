@@ -1,0 +1,2 @@
+1. Conditional policy can significantly increase the diversity based on different goal.
+2. As for observation space, we may need to add trajectory info.
